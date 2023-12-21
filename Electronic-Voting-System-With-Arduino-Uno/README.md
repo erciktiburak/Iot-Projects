@@ -36,5 +36,5 @@ This project is an Electronic Voting System that utilizes push buttons for votin
 - [Source Code](https://github.com/erciktiburak/Iot-Projects/blob/main/Electronic-Voting-System-With-Arduino-Uno/evm.ino)
 
 ## Author
-- [Author Name](https://github.com/erciktiburak)
+- [BURAK ERCIKTI](https://github.com/erciktiburak)
 
